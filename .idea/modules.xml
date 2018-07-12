@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/czw-ssm-eureka-sample/czw-ssm-eureka-client-customer/czw-ssm-eureka-client-customer.iml" filepath="$PROJECT_DIR$/czw-ssm-eureka-sample/czw-ssm-eureka-client-customer/czw-ssm-eureka-client-customer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/czw-ssm-eureka-sample/czw-ssm-eureka-client-provider/czw-ssm-eureka-client-provider.iml" filepath="$PROJECT_DIR$/czw-ssm-eureka-sample/czw-ssm-eureka-client-provider/czw-ssm-eureka-client-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/czw-ssm-eureka-cluster/czw-ssm-eureka-cluster.iml" filepath="$PROJECT_DIR$/czw-ssm-eureka-cluster/czw-ssm-eureka-cluster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/czw-ssm-eureka-cluster/czw-ssm-eureka-cluster-client-customer/czw-ssm-eureka-cluster-client-customer.iml" filepath="$PROJECT_DIR$/czw-ssm-eureka-cluster/czw-ssm-eureka-cluster-client-customer/czw-ssm-eureka-cluster-client-customer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/czw-ssm-eureka-cluster/czw-ssm-eureka-cluster-client-provider/czw-ssm-eureka-cluster-client-provider.iml" filepath="$PROJECT_DIR$/czw-ssm-eureka-cluster/czw-ssm-eureka-cluster-client-provider/czw-ssm-eureka-cluster-client-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/czw-ssm-eureka-cluster/czw-ssm-eureka-cluster-server/czw-ssm-eureka-cluster-server.iml" filepath="$PROJECT_DIR$/czw-ssm-eureka-cluster/czw-ssm-eureka-cluster-server/czw-ssm-eureka-cluster-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/czw-ssm-eureka-sample/czw-ssm-eureka-sample.iml" filepath="$PROJECT_DIR$/czw-ssm-eureka-sample/czw-ssm-eureka-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/czw-ssm-eureka-sample/czw-ssm-eureka-server/czw-ssm-eureka-server.iml" filepath="$PROJECT_DIR$/czw-ssm-eureka-sample/czw-ssm-eureka-server/czw-ssm-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/czwssm.iml" filepath="$PROJECT_DIR$/czwssm.iml" />
+    </modules>
+  </component>
+</project>
