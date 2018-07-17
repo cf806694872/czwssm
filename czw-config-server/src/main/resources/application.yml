@@ -1,0 +1,33 @@
+
+#spring.application.name=thoth-config-server
+#server.port=12222
+#
+##spring.cloud.config.server.git.uri=https://github.com/liangliang1259/thoth-config-repository.git
+#spring.cloud.config.server.git.uri=https://github.com/cf806694872/repository.git
+#spring.cloud.config.server.git.searchPaths=respo
+#spring.cloud.config.label=v1.0
+#spring.cloud.config.server.git.password=cf123123
+#spring.cloud.config.server.git.username=cf806694872
+#
+#eureka.client.serviceUrl.defaultZone=http://127.0.0.1:7777/eureka/、
+
+server:
+  port: 12222
+
+spring:
+      application:
+        name: czw-config-server
+      cloud:
+        config:
+          server:
+            git:
+              uri: https://gitee.com/czw_66/repository.git
+              search-paths: respo
+              password: cf806694872
+              username: 761034089@qq.com
+
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:7777/eureka/
