@@ -1,8 +1,0 @@
-eureka:
-  client:
-    service-url:
-      defaultZone: http://hostA:8888/eureka/,http://hostB:8889/eureka/
-
-spring:
-  application:
-    name: cluster-provider-service
